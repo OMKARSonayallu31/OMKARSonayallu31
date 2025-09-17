@@ -1,5 +1,9 @@
 # 💫 About Me:
-Full Stack Developer
+👋 Hi, I'm Omkar Sonayallu, a passionate Full Stack Developer with experience in building dynamic web and mobile applications.  
+💻 Skilled in Java,  JDBC, MySQL, and JavaScript  
+⚡ I love solving real-world problems through clean, scalable, and efficient code.  
+🌱 Currently exploring Cloud (AWS, Azure)** and **DevOps tools to enhance my development workflow.  
+🤝 I’m open to collaborating on open-source projects, innovative startups, and challenging freelance work.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-sonayallu31102)
