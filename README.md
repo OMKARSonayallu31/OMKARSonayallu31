@@ -13,11 +13,11 @@ Full Stack Developer
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omkar-sonayallu31102&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=omkar-sonayallu31102&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-sonayallu31102&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=OMKARSonayallu31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OMKARSonayallu31&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARSonayallu31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=omkar-sonayallu31102&icon=0&color=0)](https://visitcount.itsvg.in)  
+---
+[![](https://visitcount.itsvg.in/api?id=OMKARSonayallu31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
